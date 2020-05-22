@@ -1,7 +1,8 @@
-package com.bruvi.memorynotes
+package com.bruvi.memorynotes.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.bruvi.memorynotes.R
 
 class MainActivity : AppCompatActivity() {
 
