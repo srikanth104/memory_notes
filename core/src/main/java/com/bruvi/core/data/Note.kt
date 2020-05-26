@@ -11,5 +11,6 @@ data class Note(
     var content: String,
     var creationTime: Long,
     var updatedTime: Long,
-    var id: Long = 0
+    var id: Long = 0,
+    var wordCount: Int = 0
 )
